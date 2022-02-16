@@ -5,7 +5,7 @@ description: Ampli construction sets are modular blocks designed to contain pape
   This makes it possible to quickly and easily engineer paper analytical devices for
   glucose assays, infection diagnostics, and many other uses.(Image by Little Devices
   Lab.)
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-hst-001-mit-little-devices-lab-fall-2021/6a8f6d43f91bfd1ecaa2960dface3e2a_res-hst-001f21.jpg
+file: /media/courses/res-hst-001-mit-little-devices-lab-fall-2021/6a8f6d43f91bfd1ecaa2960dface3e2a_res-hst-001f21.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Ampli construction sets are modular blocks with paper-based fluidic elements,
@@ -16,6 +16,8 @@ image_metadata:
   image-alt: 'Dime-sized square blocks, snapped together in a line, with upper and
     lower overlapping paper tabs. Below this, the same type of blocks are arranged
     to form the letters M, I, and T. '
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: res-hst-001f21
 uid: 6a8f6d43-f91b-fd1e-caa2-960dface3e2a
