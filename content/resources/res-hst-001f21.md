@@ -17,10 +17,10 @@ image_metadata:
     lower overlapping paper tabs. Below this, the same type of blocks are arranged
     to form the letters M, I, and T. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-hst-001f21
 uid: 6a8f6d43-f91b-fd1e-caa2-960dface3e2a
 ---
 Ampli construction sets are modular blocks designed to contain paper-based fluidic elements, that can be connected together to form paperfluidic circuits. This makes it possible to quickly and easily engineer paper analytical devices for glucose assays, infection diagnostics, and many other uses.(Image by Little Devices Lab.)
-
